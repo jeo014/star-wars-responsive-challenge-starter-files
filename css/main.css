@@ -1,0 +1,23 @@
+* {
+	font-family: "Roboto", sans-serif;
+}
+
+nav {
+	background-color: gold;
+}
+
+nav h2 {
+	margin-bottom: 0.5em;
+}
+
+nav h3 {
+	margin-top: 0px;
+}
+
+img {
+	width: 100%;
+}
+
+.card-box {
+	border: 1px solid gray;
+}
